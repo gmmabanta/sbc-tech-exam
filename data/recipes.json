@@ -1,0 +1,37 @@
+{
+    "recipes": [
+        {
+            "id": 2,
+            "title": "Post 2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy Lorem Ipsum is simply dummy text of the printing and typesessssssssssssssss sasssssssssssssssssssssss asdasdasdasd",
+            "ingredients": "",
+            "instructions": "",
+            "author": "Mae Mabanta",
+            "email": "gmmabanta@gmail.com",
+            "dateCreated": "August 13, 2010",
+            "isFavorite": true
+        },
+        {
+            "id": 4,
+            "title": "Post 4",
+            "description": "This is the full content of post 4",
+            "ingredients": "",
+            "instructions": "",
+            "author": "Mae Mabanta",
+            "email": "gmmabanta@gmail.com",
+            "dateCreated": "August 20, 2010",
+            "isFavorite": false
+        },
+        {
+            "id": 5,
+            "title": "Post 1",
+            "description": "This is the full content of post 1",
+            "ingredients": "",
+            "instructions": "",
+            "author": "Mae Mabanta",
+            "email": "gmmabanta@gmail.com",
+            "dateCreated": "3/5/2025",
+            "isFavorite": true
+        }
+    ]
+}
